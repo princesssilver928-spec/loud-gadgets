@@ -146,7 +146,7 @@ export default function AboutPage() {
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-premium-gold transition-colors"
                   >
-                    +234 915 582 6027
+                    +234 913 847 3505
                   </a>
                 </div>
               </div>

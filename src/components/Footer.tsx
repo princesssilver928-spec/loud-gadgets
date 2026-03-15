@@ -83,7 +83,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-premium-gold transition-colors"
                 >
-                  +234 915 582 6027
+                  +234 913 847 3505
                 </a>
               </li>
               <li className="flex items-center gap-3">
@@ -92,7 +92,7 @@ export default function Footer() {
                   href="tel:+2349138473505"
                   className="text-gray-400 hover:text-premium-gold transition-colors"
                 >
-                  +234 915 582 6027
+                  +234 913 847 3505
                 </a>
               </li>
             </ul>
@@ -101,19 +101,19 @@ export default function Footer() {
             <div className="flex gap-4 mt-6">
               <a
                 href="#"
-                className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center text-gray-400 hover:bg-premium-gold hover:text-deep-black transition-all"
+                className="w-10 h-10 bg-black rounded-full flex items-center justify-center text-gray-400 hover:bg-premium-gold hover:text-deep-black transition-all border border-gray-800"
               >
                 <i className="fab fa-facebook-f"></i>
               </a>
               <a
                 href="#"
-                className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center text-gray-400 hover:bg-premium-gold hover:text-deep-black transition-all"
+                className="w-10 h-10 bg-black rounded-full flex items-center justify-center text-gray-400 hover:bg-premium-gold hover:text-deep-black transition-all border border-gray-800"
               >
                 <i className="fab fa-instagram"></i>
               </a>
               <a
                 href="#"
-                className="w-10 h-10 bg-gray-800 rounded-full flex items-center justify-center text-gray-400 hover:bg-premium-gold hover:text-deep-black transition-all"
+                className="w-10 h-10 bg-black rounded-full flex items-center justify-center text-gray-400 hover:bg-premium-gold hover:text-deep-black transition-all border border-gray-800"
               >
                 <i className="fab fa-twitter"></i>
               </a>
