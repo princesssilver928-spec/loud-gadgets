@@ -9,7 +9,7 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        'deep-black': '#0a0a0a',
+        'deep-black': '#000000',
         'premium-gold': '#D4AF37',
         'gold-light': '#E8C868',
         'gold-dark': '#B8962E',
