@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Logo from "./Logo";
 
-const WHATSAPP_NUMBER = "2349155826027";
+const WHATSAPP_NUMBER = "2349138473505";
 
 export default function Footer() {
   const quickLinks = [
@@ -89,7 +89,7 @@ export default function Footer() {
               <li className="flex items-center gap-3">
                 <i className="fas fa-phone text-premium-gold"></i>
                 <a
-                  href="tel:+2349155826027"
+                  href="tel:+2349138473505"
                   className="text-gray-400 hover:text-premium-gold transition-colors"
                 >
                   +234 915 582 6027

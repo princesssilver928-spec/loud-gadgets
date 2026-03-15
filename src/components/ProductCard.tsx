@@ -14,7 +14,7 @@ interface ProductCardProps {
   product: Product;
 }
 
-const WHATSAPP_NUMBER = "2349155826027";
+const WHATSAPP_NUMBER = "2349138473505";
 
 function getWhatsAppLink(productName: string): string {
   const message = `Hello Loud Gadgets, I saw the ${productName} on your website and I'd like to place an order.`;
@@ -32,8 +32,8 @@ export default function ProductCard({ product }: ProductCardProps) {
   };
 
   return (
-    <div className="product-card bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl overflow-hidden border border-gray-800 hover:border-premium-gold/50">
-      <div className="relative p-6 bg-gradient-to-br from-gray-800/30 to-transparent">
+    <div className="product-card bg-black rounded-2xl overflow-hidden border border-gray-800 hover:border-premium-gold/50">
+      <div className="relative p-6">
         <div className="product-image aspect-square flex items-center justify-center">
           <Image
             src={product.image}

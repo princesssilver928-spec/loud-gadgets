@@ -54,7 +54,7 @@ export default function AboutPage() {
           <CoralBeadDivider />
 
           <div className="grid md:grid-cols-2 gap-8 my-12">
-            <div className="scroll-reveal bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800 hover:border-premium-gold/30 transition-all">
+            <div className="scroll-reveal bg-black rounded-2xl p-8 border border-gray-800 hover:border-premium-gold/30 transition-all">
               <div className="w-14 h-14 bg-premium-gold/20 rounded-full flex items-center justify-center mb-6">
                 <i className="fas fa-bullseye text-premium-gold text-2xl"></i>
               </div>
@@ -65,7 +65,7 @@ export default function AboutPage() {
               </p>
             </div>
 
-            <div className="scroll-reveal bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800 hover:border-premium-gold/30 transition-all">
+            <div className="scroll-reveal bg-black rounded-2xl p-8 border border-gray-800 hover:border-premium-gold/30 transition-all">
               <div className="w-14 h-14 bg-premium-gold/20 rounded-full flex items-center justify-center mb-6">
                 <i className="fas fa-eye text-premium-gold text-2xl"></i>
               </div>
@@ -117,7 +117,7 @@ export default function AboutPage() {
 
           <CoralBeadDivider />
 
-          <div className="scroll-reveal my-12 bg-gradient-to-br from-gray-900 to-deep-black rounded-3xl p-8 md:p-12 border border-premium-gold/30">
+          <div className="scroll-reveal my-12 bg-black rounded-3xl p-8 md:p-12 border border-premium-gold/30">
             <h2 className="text-3xl font-bold mb-6 text-center">
               Visit <span className="text-premium-gold">Our Store</span>
             </h2>
@@ -141,7 +141,7 @@ export default function AboutPage() {
                 <div>
                   <h3 className="font-semibold mb-1">Contact</h3>
                   <a
-                    href="https://wa.me/2349155826027"
+                    href="https://wa.me/2349138473505"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-gray-400 hover:text-premium-gold transition-colors"

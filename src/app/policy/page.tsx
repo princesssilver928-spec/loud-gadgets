@@ -50,7 +50,7 @@ export default function PolicyPage() {
               <i className="fas fa-undo text-premium-gold"></i>
               Return Policy
             </h2>
-            <div className="bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800">
+            <div className="bg-black rounded-2xl p-8 border border-gray-800">
               <ul className="space-y-4 text-gray-300">
                 <li className="flex items-start gap-3">
                   <i className="fas fa-check text-premium-gold mt-1"></i>
@@ -78,7 +78,7 @@ export default function PolicyPage() {
               <i className="fas fa-shield-alt text-premium-gold"></i>
               Warranty Policy
             </h2>
-            <div className="bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800">
+            <div className="bg-black rounded-2xl p-8 border border-gray-800">
               <ul className="space-y-4 text-gray-300">
                 <li className="flex items-start gap-3">
                   <i className="fas fa-check text-premium-gold mt-1"></i>
@@ -107,7 +107,7 @@ export default function PolicyPage() {
               The Swap & Trade-In Policy
             </h2>
             <p className="text-premium-gold text-xl font-semibold mb-6">Upgrade Without the Stress.</p>
-            <div className="bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800">
+            <div className="bg-black rounded-2xl p-8 border border-gray-800">
               <h3 className="text-xl font-bold mb-6">How It Works:</h3>
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
@@ -153,7 +153,7 @@ export default function PolicyPage() {
               <i className="fas fa-truck text-premium-gold"></i>
               Shipping & Delivery
             </h2>
-            <div className="bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800">
+            <div className="bg-black rounded-2xl p-8 border border-gray-800">
               <div className="space-y-6">
                 <div className="flex items-start gap-4">
                   <div className="w-12 h-12 bg-premium-gold/20 rounded-lg flex items-center justify-center flex-shrink-0">
@@ -183,7 +183,7 @@ export default function PolicyPage() {
               <i className="fas fa-credit-card text-premium-gold"></i>
               Payment Policy
             </h2>
-            <div className="bg-gradient-to-b from-gray-900/50 to-deep-black rounded-2xl p-8 border border-gray-800">
+            <div className="bg-black rounded-2xl p-8 border border-gray-800">
               <ul className="space-y-4 text-gray-300">
                 <li className="flex items-start gap-3">
                   <i className="fas fa-check text-premium-gold mt-1"></i>
@@ -210,7 +210,7 @@ export default function PolicyPage() {
               Contact us for clarification on any of our policies.
             </p>
             <a
-              href="https://wa.me/2349155826027?text=Hello%20Loud%20Gadgets%2C%20I%20have%20a%20question%20about%20your%20policies."
+              href="https://wa.me/2349138473505?text=Hello%20Loud%20Gadgets%2C%20I%20have%20a%20question%20about%20your%20policies."
               target="_blank"
               rel="noopener noreferrer"
               className="whatsapp-btn inline-flex items-center gap-2 px-8 py-4 rounded-full text-white font-semibold"
